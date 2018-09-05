@@ -1,7 +1,7 @@
 <html>
 <style type="text/css">
 body{color:purple;
-	background-color:Light Blue;
+	background-color:yellow;
 	font-family:georgia,"times new roman"}
 h2{font-family:Arial}
 </style>
